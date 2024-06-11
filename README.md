@@ -1,16 +1,13 @@
-## Hi there 👋
+## oii, sejam bem vindos 🐢⭐🌙🪐
 
-<!--
-**itsbebel/itsbebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu me chamo anabel ⭐
 
-Here are some ideas to get you started:
+- estudo no [alura ](https://www.alura.com.br)
+- compartilho aqui os meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ meus contatos 📧
+- anabelpacheco138@gmail.com
+- @_flkbell
+  
+  ![image](https://github.com/itsbebel/itsbebel/assets/172425199/c28bcde6-15e0-4ede-868a-8b48a2466bab)
