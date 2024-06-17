@@ -11,3 +11,6 @@ eu me chamo anabel ⭐
 - @_flkbell
   
   ![image](https://github.com/itsbebel/itsbebel/assets/172425199/c28bcde6-15e0-4ede-868a-8b48a2466bab)
+
+
+(obs: meu nome so fica legal no inglês, rsrs)
